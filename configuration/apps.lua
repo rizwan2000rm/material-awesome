@@ -39,6 +39,7 @@ return {
     'nm-applet', -- wifi
     'pa-applet', -- shows an audiocontrol applet in systray when installed.
     'flameshot', --screenshot utility
+    'redshift-gtk',
     -- 'blueman-applet' -- Bluetooth tray icon
     -- 'blueman-manger'
     --'scream -u -p 4011 -i virbr1', -- scream audio sink
